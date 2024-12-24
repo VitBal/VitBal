@@ -16,6 +16,7 @@
 </p>
 
 [![VitBal GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBal)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBal&show_icons=true&theme=radical)
 [![VitBal GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBal_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
