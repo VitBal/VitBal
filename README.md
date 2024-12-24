@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a src="https://github-readme-stats.vercel.app/api?username=VitBal&show_icons=true&theme=dark&locale=ru" />
+    <img width="200" src="https://github-readme-stats.vercel.app/api?username=VitBal&show_icons=true&theme=dark&locale=ru" />
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBal&show_icons=true&theme=dark&locale=ru)
