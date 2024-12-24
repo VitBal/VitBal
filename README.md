@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a src="[https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white](https://github-readme-stats.vercel.app/api?username=VitBal&show_icons=true&theme=dark&locale=ru)" />
+<a src="https://github-readme-stats.vercel.app/api?username=VitBal&show_icons=true&theme=dark&locale=ru" />
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBal&show_icons=true&theme=dark&locale=ru)
