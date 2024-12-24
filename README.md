@@ -3,6 +3,7 @@
 <p align="center">
     💻 VitBal - coder
 </p>
+
 <hr width="100%" size="1" color="#ff0000" />
 
 <p align="center">
