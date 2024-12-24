@@ -15,4 +15,4 @@
     <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBal&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBal&show_icons=true&theme=dark&locale=ru)
