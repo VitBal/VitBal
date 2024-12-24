@@ -16,3 +16,4 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBal&show_icons=true&theme=dark&locale=ru)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBal&layout=compact)
