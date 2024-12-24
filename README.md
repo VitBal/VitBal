@@ -1,6 +1,6 @@
 <div>
 
-  <hr align="center" width="500" size="2" color="#ff0000" />
+  <hr align="center" width="90%" size="2" color="#ff0000" />
   
 <p align="center">
 💻 VitBal - coder
