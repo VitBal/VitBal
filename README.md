@@ -1,7 +1,7 @@
 <p align="center">
-    <hr align="center" width="100%" size="1" color="#ff0000" />
+    <hr width="100%" size="1" color="#ff0000" />
     💻 VitBal - coder
-    <hr align="center" width="100%" size="1" color="#ff0000" />
+    <hr width="100%" size="1" color="#ff0000" />
 </p>
 
 <p align="center">
