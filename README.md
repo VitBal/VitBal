@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-    [![VitBal GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBal)](https://github.com/anuraghazra/github-readme-stats)
+    ![VitBal GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBal)](https://github.com/anuraghazra/github-readme-stats)
 </p>
