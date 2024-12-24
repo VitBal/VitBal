@@ -1,8 +1,9 @@
+<hr width="100%" size="1" color="#ff0000" />
+
 <p align="center">
-    <hr width="100%" size="1" color="#ff0000" />
     💻 VitBal - coder
-    <hr width="100%" size="1" color="#ff0000" />
 </p>
+<hr width="100%" size="1" color="#ff0000" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
