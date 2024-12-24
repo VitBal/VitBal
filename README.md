@@ -1,2 +1,3 @@
 One two three...
 💻 VitBal - coder
+https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white
