@@ -1,3 +1,4 @@
+<div>
 <p align="center">
 💻 VitBal - coder
 </p>
@@ -10,3 +11,4 @@
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 </p>
+</div>
