@@ -17,6 +17,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=VitBal&show_icons=true&theme=dark&locale=ru" />
+    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitBal&layout=compact" />
 </p>
 
