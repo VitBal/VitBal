@@ -1,12 +1,18 @@
-<div>
+<hr align="center" width="100%" size="1" color="#ff0000" />
 
-  <hr align="center" width="100%" size="1" color="#ff0000" />
-  
-  <p align="center">
+<div style="text-align: center;">
+    <img width="100%" src="/path/to/image.png">
     💻 VitBal - coder
-  </p>
+</div>
 
-  <hr align="center" width="100%" size="1" color="#ff0000" />
+<hr align="center" width="100%" size="1" color="#ff0000" />
+
+<div style="text-align: center;">
+  <img width="100%" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img width="100%" src="https://camo.githubusercontent.com/b725efc16f046dc3e98536e3536493c1c724e1cd5c450e93d6ef69a44c3d08ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6d706f7365722d3838353633303f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6d706f736572266c6f676f436f6c6f723d7768697465">  
+</div>
+
+
 
   ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![image](https://camo.githubusercontent.com/b725efc16f046dc3e98536e3536493c1c724e1cd5c450e93d6ef69a44c3d08ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6d706f7365722d3838353633303f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6d706f736572266c6f676f436f6c6f723d7768697465)
