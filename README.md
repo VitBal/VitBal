@@ -1,8 +1,8 @@
 <hr align="center" width="100%" size="1" color="#ff0000" />
 
-<div style="text-align: center;">
+<p align="center">
     💻 VitBal - coder
-</div>
+</p>
 
 <hr align="center" width="100%" size="1" color="#ff0000" />
 
