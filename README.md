@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 </p>
 
-
+<p align="center">
 [![VitBal GitHub stats](https://github-readme-stats.vercel.app/api?username=VitBal)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
