@@ -4,7 +4,7 @@
     <p> I specialize in developing web-based business applications using Laravel and Vue.js.</p>
 </div>
 
-<hr width="100%" size="0.5" color="#ff0000" />
+<hr width="100%" />
 
 <div>
     <p>
