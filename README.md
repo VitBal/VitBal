@@ -4,7 +4,7 @@
     <p> I specialize in developing web-based business applications using Laravel and Vue.js.</p>
 </div>
 
-<hr style="border: 0.25px solid #ff0000; margin: 10px 0;">
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff0000, #0000ff); margin: 10px 0;">
 
 <div>
     <p>
